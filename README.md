@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @paraspahwa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 paraspahwa/paraspahwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,23 +30,11 @@ I mostly work with Cloud based technologies and speacialised in Amazon Web Servi
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
   
 </p>
 
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/paraspahwa5/) 👨🏻‍💻
+  - Shoot Me an [Email](mailto:paraspahwa5@gmail.com) 💌
